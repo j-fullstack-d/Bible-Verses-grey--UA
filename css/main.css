@@ -3,7 +3,7 @@
 }
 
 .div__underline--lightgrey {
-  height: 35px;
   width: 100%;
+  height: 35px;
   background-color: hsl(0, 0%, 83%);
 }
